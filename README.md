@@ -114,4 +114,4 @@ This project demonstrates a high-performance, real-time Online Analytical Proces
 to send data to kafka:
 run main.py
 
-<img src="superset.jpg">
+<img src="superset.JPG">
